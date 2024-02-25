@@ -5,8 +5,8 @@ React app that can be used with Streamer.bot to create credits.
 ## Usage
 
 Add the following actions/triggers:
-![./img/streamer-bot-setup1.png](Triggers1)
-![./img/streamer-bot-setup2.png](Triggers2)
+![Triggers1](./img/streamer-bot-setup1.png)
+![Triggers2](./img/streamer-bot-setup2.png)
 
 In the "Execute Code" sub-action of the "Add events to credits", add the following C# code:
 
